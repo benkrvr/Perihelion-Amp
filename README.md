@@ -6,7 +6,8 @@ This amplifier is designed to work as part of a two-module system with its compa
 
 
 
-![alt text](3D_Perihelion Main Board_2025-12-09.png)
+![alt text](Perihelion-Amp
+/3D_Perihelion Main Board_2025-12-09.png)
 
 ---
 
