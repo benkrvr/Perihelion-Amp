@@ -5,9 +5,8 @@ Perihelion is a compact, solid-state guitar amplifier head built around a JFET-b
 This amplifier is designed to work as part of a two-module system with its companion unit, **Aphelion**, a Space-Echo-style effects head. Perihelion provides the primary tone and drive, while Aphelion adds delay, reverb, and modulation for a spacious, atmospheric sound.
 
 
+<img width="2160" height="1209" alt="image" src="https://github.com/user-attachments/assets/5141fb48-8a96-4384-a062-50d1f3c90104" />
 
-![alt text](Perihelion-Amp
-/3D_Perihelion Main Board_2025-12-09.png)
 
 ---
 
